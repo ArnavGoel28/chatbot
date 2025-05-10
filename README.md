@@ -73,9 +73,3 @@ The .env file is not included in this repository to protect API keys.
 Ensure .env is listed in your .gitignore so that it’s not committed accidentally.
 
 Only the safe .env.example file is shared to show required variables.
-
-🤝 Contributing
-Feel free to fork this repo, make improvements, and submit a pull request!
-
-📄 License
-This project is licensed under the MIT License.
